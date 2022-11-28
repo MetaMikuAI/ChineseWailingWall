@@ -33,7 +33,7 @@ def ListAdd(string,writein,check):
     return 0
 def main():
     user_url = 'https://weibo.com/1139098205/Is9M7taaY#comment'
-    pass_wd = '4467107636950632'
+    pass_wd = ''
     headers_1 = {
         'cookie': pass_wd,
         'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36'
