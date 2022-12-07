@@ -1,5 +1,5 @@
 #-*-coding:utf8-*-
-#代码由MetaMiku改编自https://zhuanlan.zhihu.com/p/498425181?utm_id=0 ，为纪念伟大的吹号人李文亮医生
+#代码由MetaMiku改编自https://zhuanlan.zhihu.com/p/498425181?utm_id=0 ，为纪念吹号人李文亮医生
 
 from datetime import datetime ,timedelta    #时间
 from hashlib import sha256
