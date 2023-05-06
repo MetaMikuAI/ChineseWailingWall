@@ -1,4 +1,4 @@
-# ChineseWailingWall
+# ChineseWailingWall[学业冲突，暂停维护至六月中旬]
 CN数字时代哭墙————李文亮微博
 Chinese Wailing Wall ——MicroBlog of Li Wenliang
 直连：http://wailingwall.top
